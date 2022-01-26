@@ -1,9 +1,9 @@
-# my week review
+## my week review
 
 리액트 기본주차 개인 과제
 일주일 평점 남기기
 
-구현해야 하는 기능 (☑️ : 구현 완료)<br>
+#구현해야 하는 기능 (☑️ : 구현 완료)<br>
 <strong>Main</strong>
 - 버튼 누르면 review로 넘어가기
 - 새로고침마다 랜덤으로 평점값 주기
